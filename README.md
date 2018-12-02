@@ -1,3 +1,2 @@
 ## 项目说明
-通过Ruby实现一般性的数据结构和算法
-## 参考 https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby
+《数据结构与算法之美》极客时间课程编程练习，使用Go实现，对应项目地址https://github.com/wangzheng0822/algo
